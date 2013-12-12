@@ -1,0 +1,7 @@
+/* sitio web - http://mipagina.com*/
+
+/* TEAM */
+	Creator: Jose De Ita Reyes
+	Contact: josdeita [at] gmail.com
+	Twitter: #deita0x
+	From: Puebla, Mexico
